@@ -1,0 +1,70 @@
+Perfect, Arpit! Let’s craft a compelling **Phase 1: Problem Statement** for your project titled:
+
+---
+
+## 🧠 **Project Title:**  
+### _IBM HR Analytics — Attrition & Performance Prediction with SHAP Insights_
+
+---
+
+## ✅ **Problem Statement**
+
+### 🧩 Business Context:
+In today’s fast-paced corporate environment, employee attrition is one of the biggest challenges faced by Human Resources (HR) teams. High attrition leads to increased hiring costs, lost productivity, and disruption in team dynamics. Proactively identifying employees at risk of leaving enables organizations to design retention strategies that save both cost and talent.
+
+---
+
+### 🎯 Objective:
+To build a **predictive machine learning model** that accurately forecasts whether an employee is likely to leave the organization and to analyze the key factors contributing to attrition using **SHAP (SHapley Additive Explanations)** for explainability.
+
+---
+
+### 🔍 Goals:
+- Predict employee **attrition** using historical data
+- Identify **high-risk groups** using key HR features like job role, salary, distance from home, overtime, and more
+- Provide **explainable AI insights** using SHAP to support HR decision-making
+- Deploy an **interactive Streamlit dashboard** for real-time prediction and HR analysis
+
+---
+
+### 💡 Business Questions:
+1. Which features have the strongest impact on employee attrition?
+2. Can we build a model that accurately predicts attrition before it happens?
+3. How can we explain model decisions to HR managers in a simple, interpretable way?
+4. Which departments, roles, or demographics are most at risk?
+
+---
+
+### 📦 Dataset Description:
+- Source: IBM HR Analytics Employee Attrition Dataset
+- Records: 1,470 employees
+- Features: 35 columns including demographics, job details, performance, compensation, and more
+- Target Variable: `Attrition` (Yes / No)
+
+---
+
+### 🧠 Target Audience:
+- HR Managers & People Analytics Teams
+- Workforce Planning Units
+- Business Leaders interested in reducing attrition cost
+
+---
+
+### 🛠️ Scope of Techniques:
+- Exploratory Data Analysis (EDA)
+- Classification Models (Logistic Regression, Random Forest, XGBoost)
+- Model Explainability using SHAP
+- Streamlit-based HR Dashboard for insights
+
+---
+
+### 📈 Expected Outcomes:
+- A deployable classification model with >85% accuracy
+- Feature insights through SHAP for explainability
+- A user-friendly dashboard to assist HR in identifying at-risk employees
+
+---
+
+Let me know if you'd like a **Word document version** of this phase.
+
+Shall we move to **Phase 2: Data Preprocessing & EDA (Notebook 1)?**

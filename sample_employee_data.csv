@@ -1,0 +1,6 @@
+Age,BusinessTravel,Department,DistanceFromHome,Education,EducationField,Gender,JobRole,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsWithCurrManager,Attrition
+34,Travel_Rarely,Sales,10,3,Life Sciences,Male,Sales Executive,Single,4000,1,Yes,10,3,2,5,3,3,No
+29,Travel_Frequently,Research & Development,3,2,Medical,Female,Research Scientist,Married,2800,3,No,5,2,3,2,1,2,Yes
+41,Non-Travel,Human Resources,25,4,Other,Male,Human Resources,Divorced,5000,4,No,18,2,2,10,7,5,Yes
+25,Travel_Rarely,Sales,1,3,Technical Degree,Female,Laboratory Technician,Single,2700,2,Yes,3,3,1,1,1,1,No
+50,Travel_Frequently,Research & Development,5,1,Life Sciences,Female,Manager,Married,11000,1,No,25,4,4,20,15,12,No
