@@ -1,11 +1,5 @@
 # IBM-HR-Analytics-Attrition-Performance-Prediction
 
-Based on your project code and structure, here's a professional and comprehensive **README** file tailored for GitHub for your project **“Employee Performance & Attrition Prediction (HR Analytics)”**:
-
----
-
-# 🧠 Employee Performance & Attrition Prediction (HR Analytics)
-
 A comprehensive machine learning project using IBM HR Analytics dataset to predict employee attrition and understand performance drivers. This solution leverages data preprocessing, model training, SHAP explainability, and actionable business insights to enable data-driven HR decisions.
 
 ---
